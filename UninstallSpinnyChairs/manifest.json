@@ -1,0 +1,9 @@
+{
+    "name": "UninstallSpinnyChairs",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/modestimpala/",
+    "description": "Restores the original base chair!",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.0.6"
+    ]
+}

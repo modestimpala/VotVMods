@@ -1,0 +1,9 @@
+{
+    "name": "SpinnyChairs",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/modestimpala/",
+    "description": "Replaces the default base console/computer chair with one that spins and moves!",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.0.6"
+    ]
+}
