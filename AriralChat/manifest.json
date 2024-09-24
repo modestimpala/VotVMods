@@ -1,0 +1,9 @@
+{
+    "name": "AriralChat",
+    "version_number": "1.1.1",
+    "website_url": "https://github.com/modestimpala/",
+    "description": "Adds an IRC-style chat to the base computer. Chat with in-game players in real-time!",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.0.6"
+    ]
+}

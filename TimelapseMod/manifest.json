@@ -1,0 +1,9 @@
+{
+    "name": "Timelapse",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/modestimpala/",
+    "description": "Implements a camera system to record timelapse and hyperlapse sequences, with multi-cam support",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.0.6"
+    ]
+}
