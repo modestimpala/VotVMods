@@ -1,8 +1,8 @@
 {
-    "name": "SpinnyChairs",
-    "version_number": "1.1.0",
+    "name": "SlotMachine",
+    "version_number": "0.9.0",
     "website_url": "https://github.com/modestimpala/VotVMods/",
-    "description": "Replaces the default base console/computer chair with one that spins and moves! Now purchasable!",
+    "description": "Adds a fully functioning Slot Machine to the Store! I can't stop winning!",
     "dependencies": [
         "Thunderstore-unreal_shimloader-1.0.6",
         "NynrahGhost-Fusion-0.7011.5"
