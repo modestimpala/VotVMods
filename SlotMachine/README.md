@@ -24,15 +24,11 @@ Features:
  - Bonus, free spin and wildcard symbols
  - Articulating spin lever
  - Funny Mode (find the funny button)
-
-Current Limitations: 
- - Shop order arrives as a cube, not sure why, since I'm creating it exactly like my SpinnyChairs mod
- - Points deposited are not saved in between sessions, be sure to cash out when done
  
 Art including model, textures, and symbols are subject to change - I think it's fine for now but I'm not completely happy with it.
 
  Paytable:
 
- <img width="50%" src="https://www.dropbox.com/scl/fi/8hjuae6nlfqoeu4jrfout/paytable.png?rlkey=3k0eyyw14k817st0xfnr4cdle&st=oz037l26&dl=1">
+ <img width="50%" src="https://www.dropbox.com/scl/fi/8hjuae6nlfqoeu4jrfout/paytable.png?rlkey=3k0eyyw14k817st0xfnr4cdle&st=nxc7xs95&dl=1">
 
 

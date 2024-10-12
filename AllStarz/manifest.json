@@ -1,0 +1,10 @@
+{
+    "name": "AllStarz",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/modestimpala/",
+    "description": "Kel be ballin",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.0.6",
+        "NynrahGhost-Fusion-0.7011.5"
+    ]
+}

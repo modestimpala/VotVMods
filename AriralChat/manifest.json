@@ -1,6 +1,6 @@
 {
     "name": "AriralChat",
-    "version_number": "1.1.1",
+    "version_number": "1.1.3",
     "website_url": "https://github.com/modestimpala/",
     "description": "Adds an IRC-style chat to the base computer. Chat with in-game players in real-time!",
     "dependencies": [

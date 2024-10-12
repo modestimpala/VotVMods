@@ -1,3 +1,7 @@
+# 1.1.3
+    - Performance improvements, got rid of timers
+    - For chat changes see in-game changelog
+
 # 1.1.1
     - Various fixes, update is mandatory 
 
