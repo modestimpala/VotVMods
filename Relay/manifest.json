@@ -1,0 +1,10 @@
+{
+    "name": "Relay",
+    "version_number": "0.5.0",
+    "website_url": "https://github.com/modestimpala/libvotv",
+    "description": "C++ to Blueprint Hook Callback Interface",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.0.6",
+        "Moddy-shimpatch-1.0.0"
+    ]
+}
