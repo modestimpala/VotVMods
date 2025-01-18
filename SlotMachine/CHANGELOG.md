@@ -1,3 +1,5 @@
+# 1.0.2
+ - Updated to game version 0.8.1
 
 # 1.0.1 
  - Points deposited are now equal to current bet (thanks timn)

@@ -1,6 +1,6 @@
 {
     "name": "SlotMachine",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/modestimpala/VotVMods/",
     "description": "Adds a fully functioning Slot Machine to the Store! I can't stop winning!",
     "dependencies": [

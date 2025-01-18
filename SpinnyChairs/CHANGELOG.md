@@ -1,3 +1,5 @@
+# 1.1.2
+ - Updated to game version 0.8.1
 
 # 1.1.1
  - Mesh collision adjustments, can now place props like plushes in the chair

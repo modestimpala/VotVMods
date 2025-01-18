@@ -1,4 +1,7 @@
-# 1.1.3
+# 1.1.4 (pa0082_0011)
+    - Updated to latest game version
+
+# 1.1.3 (up to pa0081_0008)
     - Performance improvements, got rid of timers
     - For chat changes see in-game changelog
 
