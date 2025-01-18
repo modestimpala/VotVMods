@@ -1,6 +1,6 @@
 {
     "name": "Timelapse",
-    "version_number": "1.0.1",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/modestimpala/",
     "description": "Implements a camera system to record timelapse and hyperlapse sequences, with multi-cam support",
     "dependencies": [
