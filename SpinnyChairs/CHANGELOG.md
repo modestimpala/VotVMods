@@ -1,3 +1,6 @@
+# 1.1.3
+ - Updated to game version 0.8.2
+
 # 1.1.2
  - Updated to game version 0.8.1
 
