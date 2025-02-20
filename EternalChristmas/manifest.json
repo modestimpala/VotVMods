@@ -1,0 +1,9 @@
+{
+    "name": "EternalChristmas",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/modestimpala/VotVMods",
+    "description": "Merry Christmas! Forever!",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.0.8"
+    ]
+}
