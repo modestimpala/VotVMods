@@ -1,6 +1,6 @@
 <p align="center" width="100%">
 
-<img src="https://www.dropbox.com/scl/fi/9m5z6o95m7l8101mizb4e/chatmon.png?rlkey=d0sukwkq81o6gq06torjrd2ov&st=2avzpi0v&dl=1">
+<img src="https://www.dropbox.com/scl/fi/mkmq68q8x5zdp19vny8ae/smarttvloggo.png?rlkey=5zu24b7arizs3iuwnjw3kxlfu&st=jj7jht0w&dl=1">
 
 </p>
 
@@ -10,21 +10,37 @@
 </p>
 
 
-# SmartTV
 
-Readme is WIP
+### Greetings Dr Kel. 
 
-SmartTV is a mod that allows you to watch YouTube, Vimeo/Twitch CLIP videos ([and more](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)) display OBS Source output and also display your Twitch Chat in-game.
+### ASO has requisitioned additional funds for ahem... *entertainment*, resulting in ground-breaking new technology developments for the TVs available for purchase in the store.
 
-Props
+There are three *new* props available for purchase in the store:
 - Monitor SmartTV
 - Medium SmartTV
 - Plasma SmartTV
 
+Props have three different modes to access after Toggling the screen on.
+
+Unlike the original TV, you can play multiple different video files at once (MP4, asset files, for example)
+
+
 Modes
-- ChatMon
-- OBS Source Output
 - Media
+- OBS Source Output
+- ChatMon
+- Video Device Output
+
+Double click on entries to play them (videos or devices)
+
+Readme is still kinda WIP.
+
+<p align="center" >
+
+<img width="75%" src="https://www.dropbox.com/scl/fi/9el6a0omma2jh6bactov5/smarttvui.png?rlkey=mgoxg65fs9l8dgn0eu0rdcb3p&st=eqj4fwo1&dl=1">
+
+</p>
+
 
 
 
@@ -43,4 +59,5 @@ OBS Mode does not handle audio, it is Source video output *only*
 
 
 **This does NOT allow you to watch Twitch streams in-game still.** You can watch YouTube, Vimeo, Twitch CLIPS, [and more](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md). Otherwise, chat viewer simply displays Twitch chat with emotes, nothing more. 
+
 
