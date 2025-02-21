@@ -1,3 +1,6 @@
+# 1.1.4
+ - Updated to game version pa0082b_0004
+
 # 1.1.3
  - Updated to game version 0.8.2
 

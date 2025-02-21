@@ -1,3 +1,8 @@
+# 0.6.1
+
+- Added volume slider
+- Adjusted prop volumes and store size so they will always spawn inside box
+- Adjusted widget so tick is disabled when not on OBS/ChatMon mode
 
 # 0.6.0
 
