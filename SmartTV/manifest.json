@@ -1,10 +1,10 @@
 {
     "name": "SmartTV",
-    "version_number": "0.6.1",
+    "version_number": "0.6.5",
     "website_url": "https://github.com/modestimpala/",
-    "description": "TV Props with support for YouTube+, OBS Scene output, Twitch chat, and Video Device output.",
+    "description": "TV Props with support for YouTube+, OBS Scene output, Twitch chat, and Video Device output. [pa082b_0016]",
     "dependencies": [
-        "Thunderstore-unreal_shimloader-1.0.9",
+        "Thunderstore-unreal_shimloader-1.0.10",
         "NynrahGhost-Fusion-0.8108.3"
     ]
 }

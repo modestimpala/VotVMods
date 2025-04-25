@@ -20,10 +20,7 @@ There are three *new* props available for purchase in the store:
 - Medium SmartTV
 - Plasma SmartTV
 
-Props have three different modes to access after Toggling the screen on.
-
-Unlike the original TV, you can play multiple different video files at once (MP4, asset files, for example)
-
+First, 'Toggle' a TV on. Then, 'Use' it to open the SmartTV UI. Here, you can select several different modes:
 
 Modes
 - Media
@@ -31,9 +28,9 @@ Modes
 - ChatMon
 - Video Device Output
 
-Double click on entries to play them (videos or devices)
+Unlike the original TV, you can play multiple different video files at once (MP4, asset files, for example)
 
-Readme is still kinda WIP.
+Double click on entries to play them (videos or devices)
 
 <p align="center" >
 

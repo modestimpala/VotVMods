@@ -1,3 +1,22 @@
+# 0.6.5
+
+- Added dedicated Shuffle button
+- Fixed sound issue
+
+# 0.6.3
+
+- Potential fix for Yt-dlp Pipe issue
+
+# 0.6.2
+
+- Added Looping Modes
+- Added Seek Bar
+- Added Portrait mode (settings)
+- Added ability to attach plasma TV to walls
+- Added Show/Hide button for Yt-Dlp path
+- Adjusted Tooltips, Button text
+- Optimized pipe usage
+
 # 0.6.1
 
 - Added volume slider
