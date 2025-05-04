@@ -1,10 +1,10 @@
 {
     "name": "SpinnyChairs",
-    "version_number": "1.1.4",
+    "version_number": "1.1.5",
     "website_url": "https://github.com/modestimpala/VotVMods/",
     "description": "Replaces the default base console/computer chair with one that spins and moves! Now purchasable!",
     "dependencies": [
-        "Thunderstore-unreal_shimloader-1.0.9",
-        "NynrahGhost-Fusion-0.7011.5"
+        "Thunderstore-unreal_shimloader-1.0.10",
+        "NynrahGhost-Fusion-0.8108.3"
     ]
 }

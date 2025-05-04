@@ -1,3 +1,6 @@
+# 1.1.5
+ - Fix for frozen chair issue
+
 # 1.1.4
  - Updated to game version pa0082b_0004
 

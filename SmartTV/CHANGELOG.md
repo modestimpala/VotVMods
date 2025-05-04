@@ -1,3 +1,12 @@
+# 0.7.0
+
+- Added Projector TV
+  - Highly configurable, somewhat GPU intensive projector that uses 3 real simulated light sources on R G B channels to project media or devices.
+- Added Smart Phone
+  - A fully functioning mobile SmartTV.
+  - Press T to turn on, LMB to raise, and RMB to open UI.
+  - Smart Phones share one single main media player instance.
+
 # 0.6.5
 
 - Added dedicated Shuffle button

@@ -15,10 +15,12 @@
 
 ### ASO has requisitioned additional funds for ahem... *entertainment*, resulting in ground-breaking new technology developments for the TVs available for purchase in the store.
 
-There are three *new* props available for purchase in the store:
+There are *new* props available for purchase in the store:
 - Monitor SmartTV
 - Medium SmartTV
 - Plasma SmartTV
+- Projector SmartTV
+- Smart Phone
 
 First, 'Toggle' a TV on. Then, 'Use' it to open the SmartTV UI. Here, you can select several different modes:
 
