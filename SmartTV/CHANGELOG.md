@@ -1,7 +1,7 @@
 # 0.8.0
 
 - Added prop data saving
-  - SmartTVs now save all information including playlists, playtime, settings, etc.
+  - SmartTVs now save most media information including playlists, playtime, settings, etc.
   - Projectors save all lighting specific data.
 - UI Improvements
   - Thumbnails
