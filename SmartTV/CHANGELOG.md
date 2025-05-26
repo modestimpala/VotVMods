@@ -1,3 +1,24 @@
+# 0.8.0
+
+- Added prop data saving
+  - SmartTVs now save all information including playlists, playtime, settings, etc.
+  - Projectors save all lighting specific data.
+- UI Improvements
+  - Thumbnails
+  - Track Time
+  - Fixed some text issues
+- Projector: 
+  - Rotated root of Projector Mesh to face forward when holding
+  - Projector can now be toggled with LMB and Open UI with RMB
+- yt-dlp Improvements:
+  - Requests UI to display current reuqest proccs and associated pipes, with ability to kill/clear requests
+  - Added auto-downloader for yt-dlp from their [repo](https://github.com/yt-dlp/yt-dlp/releases/)
+    - This avoids bundling the yt-dlp exe with the mod
+    - The mod will automatically download yt-dlp into your Win64/yt-dlp dir
+  - Added ability to change yt-dlp args in-game if needed
+    - Please don't change these values unless you read their [readme](https://github.com/yt-dlp/yt-dlp/) beforehand
+
+
 # 0.7.0
 
 - Added Projector TV
