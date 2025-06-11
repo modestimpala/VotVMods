@@ -1,3 +1,13 @@
+# 0.8.2
+
+- General UI, Playlist improvements
+- Fixed some mediaplayer settings not saving properly 
+- Sound classes changed again for 082c stable
+
+# 0.8.1
+
+- Potential fix for Pause Menu issue
+
 # 0.8.0
 
 - Added prop data saving
