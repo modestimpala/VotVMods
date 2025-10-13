@@ -1,3 +1,10 @@
+# 0.9.0
+
+- Added support for Audio Devices / Mic Capture
+- Enhanced YT-DLP format support
+  - Prioritizes combined a+v formats, attempts to use seperate a+v formats if combined not available.
+- Fixed issue where removing a video that is the only video in the playlist would result in the video re-playing
+
 # 0.8.2
 
 - General UI, Playlist improvements

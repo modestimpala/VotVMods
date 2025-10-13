@@ -26,9 +26,9 @@ First, 'Toggle' a TV on. Then, 'Use' it to open the SmartTV UI. Here, you can se
 
 Modes
 - Media
-- OBS Source Output
+- OBS Source 
 - ChatMon
-- Video Device Output
+- Video Device 
 
 Unlike the original TV, you can play multiple different video files at once (MP4, asset files, for example)
 
