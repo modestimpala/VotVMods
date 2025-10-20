@@ -1,3 +1,7 @@
+# 0.9.1
+
+- Fix for users who don't have ffmpeg installed
+
 # 0.9.0
 
 - Added support for Audio Devices / Mic Capture
