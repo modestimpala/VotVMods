@@ -1,3 +1,7 @@
+# 0.9.5
+
+Updated for unreal-shimloader 1.1.1
+
 # 0.9.4
 
 Removed dll copying script to opt for new fixed IncludeDLLDirectory shim

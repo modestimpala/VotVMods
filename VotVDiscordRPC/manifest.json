@@ -1,9 +1,9 @@
 {
     "name": "VotVDiscordRPC",
-    "version_number": "0.9.4",
+    "version_number": "0.9.5",
     "website_url": "https://github.com/modestimpala/libvotv",
     "description": "Simple Discord Rich Presence",
     "dependencies": [
-        "Thunderstore-unreal_shimloader-1.0.10"
+        "Thunderstore-unreal_shimloader-1.1.1"
     ]
 }
