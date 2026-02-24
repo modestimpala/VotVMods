@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std; 
+
+int main() {
+
+	int n, m, a; 
+	cin >> n >> m >> a; 
+	int kol_horizont = n / a; 
+	if (kol_horizont * a < n) {
+		kol_horizont++; 
+	}
+	int kol_vertical = m / a; 
+	if (kol_vertical * a < n) {
+		kol_vertical++;
+	}
+
+	cout << kol_horizont * kol_vertical << endl;
+	return 0; 
+}
