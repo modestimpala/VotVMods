@@ -1,0 +1,25 @@
+#include <iostream>
+#include <string>
+
+using namespace std; 
+
+int main() {
+
+	string label;
+	cin >> label; 
+
+	if (label[0] >= 97 && label[0] <= 122) {
+		label[0] -= 32; 
+
+	}
+	for (int i = 1; i < label.size(); i++) {
+		if (label[i] <= 90 && label[i] >= 65) {
+			label[i] += 32; 
+		}
+	}
+	cout << label; 
+	return 0; 
+} 
+
+
+
