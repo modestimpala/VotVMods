@@ -1,3 +1,7 @@
+# 0.9.6
+
+Updated for unreal-shimloader 1.1.3
+
 # 0.9.5
 
 Updated for unreal-shimloader 1.1.1

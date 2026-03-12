@@ -24,7 +24,7 @@ This mod allows users to spawn Mannequin props with their name attached, and cha
 
 ### Note: There is currently a known bug that causes crashes if you die and then reload (sometimes). Save often!
 
-  
+  Having issues with the mod? Please make sure you're on the correct "Preferred version" of unreal-shimloader.
 
 ## What can this mod do?
 
