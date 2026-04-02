@@ -1,3 +1,7 @@
+# 0.9.2 
+
+- Updated to latest stable game version: a09j_0001
+
 # 0.9.1
 
 - Fix for users who don't have ffmpeg installed
