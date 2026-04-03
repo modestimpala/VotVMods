@@ -25,8 +25,6 @@ Features:
  - Articulating spin lever
  - Funny Mode (find the funny button)
  
-Art including model, textures, and symbols are subject to change - I think it's fine for now but I'm not completely happy with it.
-
  Paytable:
 
  <img width="50%" src="https://www.dropbox.com/scl/fi/8hjuae6nlfqoeu4jrfout/paytable.png?rlkey=3k0eyyw14k817st0xfnr4cdle&st=nxc7xs95&dl=1">
