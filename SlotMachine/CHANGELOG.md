@@ -1,3 +1,6 @@
+# 1.0.6
+ - Fixed not appearing in store
+
 # 1.0.5
  - Updated to game version a09j_0001
 
