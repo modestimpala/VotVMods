@@ -1,3 +1,7 @@
+# 0.9.7
+ - Updated to a09j_0001
+ - Added additional activity tracking
+
 # 0.9.6
 
 Updated for unreal-shimloader 1.1.3
