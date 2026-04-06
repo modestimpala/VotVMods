@@ -1,3 +1,8 @@
+# 0.1.5
+
+ - Updated to latest stable game version: a09j_0001
+ - Added small 5 second delay to Twitch Auth opening to prevent it from opening before Fusion restarts game 
+
 # 0.1.4
 
 Updated for unreal-shimloader 1.1.3

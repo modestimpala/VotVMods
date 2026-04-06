@@ -1,6 +1,6 @@
 {
     "name": "TwitchMannequins",
-    "version_number": "0.1.4",
+    "version_number": "0.1.5",
     "website_url": "https://github.com/modestimpala/VotVMods/tree/main/TwitchMannequins",
     "description": "New Twitch integration mod for VotV! Your viewers join the void - spawn mannequins from subscribers and channel points; See their chat in-game! Includes Speaker.bot TTS support.",
     "dependencies": [
