@@ -9,6 +9,7 @@
 <a href="https://discord.gg/Bq7HCMRfjk"><img width="5%" src="https://www.dropbox.com/scl/fi/96uoyd529gq617880m0cu/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png?rlkey=343xgtya1h3r53bblx8lns473&st=ih0q2alh&dl=1"></a>
 </p>
 
+ 0.9.4 : Temporarily disabled prop info saving to fix crashes. Have to rework saving logic. 
 
 
 ### Greetings Dr Kel. 
