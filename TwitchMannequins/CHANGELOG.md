@@ -1,3 +1,7 @@
+# 0.1.6
+
+ - Fixed crashes (added game thread queue for ProcessEvent calls)
+
 # 0.1.5
 
  - Updated to latest stable game version: a09j_0001
