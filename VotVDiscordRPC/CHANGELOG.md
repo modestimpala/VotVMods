@@ -1,3 +1,6 @@
+# 0.9.8
+ - Added "NoRequireDiscord" to discord::Core::Create call to prevent "There is no windows program configured to open this type of file" on Linux/etc
+
 # 0.9.7
  - Updated to a09j_0001
  - Added additional activity tracking

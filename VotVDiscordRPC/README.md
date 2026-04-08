@@ -2,6 +2,8 @@
 
 Having issues with the mod? Please make sure you're on the correct "Preferred version" of unreal-shimloader.
 
+Using Linux? Try [wine-discord-ipc-bridge](https://github.com/0e4ef622/wine-discord-ipc-bridge) 
+
 A simple Discord Rich Presence mod for Voices of the Void.
 This mod was made using [libvotv](https://github.com/modestimpala/libvotv) - a simple, header only VotV C++ modder library. 
 
