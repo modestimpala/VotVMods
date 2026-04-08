@@ -1,3 +1,7 @@
+# 0.9.4
+
+- Temporarily disabled prop info saving to fix crashes. Have to rework saving logic. 
+
 # 0.9.2 
 
 - Updated to latest stable game version: a09j_0001
