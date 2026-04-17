@@ -1,3 +1,7 @@
+# 2.0.0 (a09j_0001)
+    - Full mod rework
+    - Updated to a09j_0001
+
 # 1.1.4 (pa0082_0011)
     - Updated to latest game version
 

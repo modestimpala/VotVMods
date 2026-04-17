@@ -3,7 +3,7 @@
 
 # AriralChat: In-Game IRC-Style Chat
 
-Access a retro IRC-style chat through the in-game computer. Chat with in-game players in real-time, send photos, and converse in retro style.
+Access a retro IRC-style chat through the in-game computer. Chat with in-game players in real-time, send photos - converse in the void.
 
 Features:
 
