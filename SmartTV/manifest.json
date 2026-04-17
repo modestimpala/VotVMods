@@ -1,6 +1,6 @@
 {
     "name": "SmartTV",
-    "version_number": "0.9.4",
+    "version_number": "0.9.5",
     "website_url": "https://github.com/modestimpala/VotVMods/",
     "description": "TV Props with support for YouTube+, OBS Scene output, Twitch chat, and Video Device output. [a09j_0001]",
     "dependencies": [

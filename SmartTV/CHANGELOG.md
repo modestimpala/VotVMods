@@ -1,5 +1,7 @@
-# 0.9.4
+# 0.9.5
+- Fixed plasma TV not attaching to walls
 
+# 0.9.4
 - Temporarily disabled prop info saving to fix crashes. Have to rework saving logic. 
 
 # 0.9.2 
