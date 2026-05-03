@@ -1,3 +1,6 @@
+# 0.9.6
+- Update for a09k
+
 # 0.9.5
 - Fixed plasma TV not attaching to walls
 

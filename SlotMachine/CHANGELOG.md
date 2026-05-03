@@ -1,3 +1,6 @@
+# 1.0.7
+ - Updated to a09k
+
 # 1.0.6
  - Fixed not appearing in store
 

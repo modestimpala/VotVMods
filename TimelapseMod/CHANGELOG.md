@@ -1,3 +1,6 @@
+# 1.0.3
+    - Updated to game version a09k
+
 # 1.0.2
     - Updated to game version pa0082_0011
 
