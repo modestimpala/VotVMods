@@ -1,9 +1,9 @@
 {
     "name": "AriralChat",
-    "version_number": "2.0.0",
+    "version_number": "2.0.1",
     "website_url": "https://github.com/modestimpala/VotVMods/",
-    "description": "Adds an IRC-style chat to the base computer. Chat with in-game players in real-time! [a09j_0001]",
+    "description": "Adds an IRC-style chat to the base computer. Chat with in-game players in real-time!",
     "dependencies": [
-        "Thunderstore-unreal_shimloader-1.1.3"
+        "Thunderstore-unreal_shimloader-1.1.7"
     ]
 }

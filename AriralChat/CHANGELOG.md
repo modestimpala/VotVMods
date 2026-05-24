@@ -1,3 +1,6 @@
+# 2.0.1
+    - Fixes for reconnecting and chat spam issues
+
 # 2.0.0 (a09j_0001)
     - Full mod rework
     - Updated to a09j_0001
