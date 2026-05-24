@@ -1,10 +1,10 @@
 {
     "name": "SlotMachine",
-    "version_number": "1.0.7",
+    "version_number": "1.0.8",
     "website_url": "https://github.com/modestimpala/VotVMods/",
     "description": "Adds a fully functioning Slot Machine to the Store! I can't stop winning! [a09k]",
     "dependencies": [
-        "Thunderstore-unreal_shimloader-1.1.4",
+        "Thunderstore-unreal_shimloader-1.1.7",
         "NynrahGhost-Fusion-0.8108.3"
     ]
 }

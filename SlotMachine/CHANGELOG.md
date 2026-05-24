@@ -1,3 +1,6 @@
+# 1.0.8
+ - Fixed prop not saving properly
+
 # 1.0.7
  - Updated to a09k
 
