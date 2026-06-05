@@ -1,12 +1,41 @@
-# PBMovement
+# PB Movement for Voices of the Void
 
-A UE4SS C++ mod that grafts **Project Borealis** (Half-Life 2 style) character
-movement onto **Voices of the Void**'s player at runtime - without recompiling
-the game or replacing its Blueprint.
+Gives your character **Half-Life 2 / Source-engine movement** - air-strafing, bunnyhopping, and **surfing** - in place of VotV's default movement.
 
-## What it does
+## What you get
 
-**HL2 ground acceleration, Air-strafing, Jump, Surfing, Per-surface friction, Terminal-velocity** 
+**Air-strafing**, **bunnyhop** (manual or auto), **surfing** on steep ramps Source-style, slippery surfaces and snappy ground movement with quick acceleration and responsive stops.
+
+Sprint, walk, and crouch all still work the way you expect - sprint uses your normal run key.
+
+> Built for **VotV a09 / a09n**. 
+
+## Configuring it - `PBMovement.ini`
+
+| Setting | What it does |
+|---|---|
+| `EnableGraft` | `true`/`false` master switch. Set to `false` to temporarily get vanilla VotV movement back without uninstalling. |
+| `RunSpeed` | Your normal move speed. PB defaults are HL2-scale. |
+| `SprintSpeed` | Speed while holding your run key. |
+| `WalkSpeed` | Slow-walk speed. |
+| `JumpZVelocity` | How high you jump. |
+| `AutoBunnyhop` | `true` = hold jump to auto-bhop. `false` = you must tap jump each time. |
+| `AirControl` | How much you can steer mid-air. `1.0` is full HL2-style control. |
+
+### Surf feel (if ramps don't behave)
+
+| Setting | What it does |
+|---|---|
+| `SurfEntrySpeed` | How fast you must be falling/moving to "stick" to a ramp instead of just landing on it. Lower it if you slide off ramps you wanted to surf; raise it if you stick to little bumps you'd rather walk over. |
+| `SurfEntryMaxNormalZ` | How steep a ramp has to be to surf. Raise toward `1.0` to surf gentler ramps; lower it to require steeper ones. |
+
+The remaining sections (`[Acceleration]`, `[Braking]`, `[EdgeFriction]`,
+`[Slope]`, `[Misc]`) are for fine-tuning the exact feel - the defaults match
+Project Borealis, so you can leave them alone unless you're chasing a specific
+feel.
+
+> Updating the mod won't overwrite your edited `PBMovement.ini` - your tuning
+> is safe.
 
 ## How it works
 
@@ -19,20 +48,16 @@ PB's `UPBPlayerMovement`/`APBPlayerCharacter` are native engine classes that
    on player spawn we copy the component's vtable, point the movement virtuals
    (`CalcVelocity`, `DoJump`, `HandleSlopeBoosting`, `GetMaxSpeed`,
    `NewFallVelocity`, `ShouldLimitAirControl`) at our ported C++, and swap the
-   instance's vtable pointer. Only the player's component is affected - NPCs are
-   untouched (we never patch the shared class vtable).
+   instance's vtable pointer. Only the player's component is affected.
 2. **Blueprint bytecode patch**: VotV's settings
    graph overwrote `AirControl`/`JumpZVelocity` every load, so we `NopRange`
    those two `EX_Let` writes in `ExecuteUbergraph_mainPlayer` (size-preserving)
    so PB's values stick.
 
-## Status
+## Credits & license
 
-Movement feature-complete. Remaining is cosmetic: camera roll, smooth crouch
-resize, and the dynamic-step-height slope-slide. Ladder/noclip are out of scope.
+Movement design and reference implementation by **Project Borealis**
+([PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement)),
+which is released under the [**MIT License**](https://github.com/ProjectBorealis/PBCharacterMovement?tab=MIT-1-ov-file#readme). This mod ports that movement logic and grafts it onto VotV's player at runtime.
 
-## Credits
-
-Movement design & reference implementation: **Project Borealis**
-([PBCharacterMovement](https://github.com/ProjectBorealis/PBCharacterMovement)).
-Graft/port for VotV via UE4SS.
+Physics reference from Jiangwei Chong's [Half-Life Physics Reference](https://www.jwchong.com/hl/movement.html)

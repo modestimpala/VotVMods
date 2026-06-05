@@ -2,8 +2,8 @@
     "name": "PBMovement",
     "version_number": "1.0.0",
     "website_url": "https://github.com/modestimpala/VotVMods/",
-    "description": "Replaces default movement system with Project Borealis' movement system (HL2 style).",
+    "description": "HL2 style character movement, ported from Project Borealis. Bunnyhopping, air strafing, surfing, and more!",
     "dependencies": [
-        "Thunderstore-unreal_shimloader-1.0.17"
+        "Thunderstore-unreal_shimloader-1.1.7"
     ]
 }
