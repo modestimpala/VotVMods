@@ -1,3 +1,7 @@
+# 1.1.6
+ - Updated to a09n
+ - Added "W" push forward action.
+
 # 1.1.5
  - Fix for frozen chair issue
 

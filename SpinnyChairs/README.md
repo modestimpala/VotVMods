@@ -22,7 +22,8 @@
 This mod replaces the default console / computer chair in the base with a chair that spins. Pretty self explanatory.
    - Use A and D keys to rotate
    - Shift to increase rotational speed
-   - Spacebar to "push" with legs to move around
+   - Spacebar to "push" with legs backwards
+   - W to "push" with legs forwards 
 
 Want to uninstall SpinnyChairs and restore the original chair? Download [this mod](https://github.com/modestimpala/VotVMods/raw/refs/heads/main/UninstallSpinnyChairs/UninstallSpinnyChairs.zip) and install locally from r2modman or drop .pak file in LogicMods folder. Load the game once, and save game. You can remove this mod after a save with the old chair is created.
 

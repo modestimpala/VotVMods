@@ -1,6 +1,6 @@
 {
     "name": "PBMovement",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/modestimpala/VotVMods/",
     "description": "HL2 style character movement, ported from Project Borealis. Bunnyhopping, air strafing, surfing, and more!",
     "dependencies": [

@@ -4,9 +4,7 @@ Gives your character **Half-Life 2 / Source-engine movement** - air-strafing, bu
 
 ## What you get
 
-**Air-strafing**, **bunnyhop** (manual or auto), **surfing** on steep ramps Source-style, slippery surfaces and snappy ground movement with quick acceleration and responsive stops.
-
-Sprint, walk, and crouch all still work the way you expect - sprint uses your normal run key.
+**Air-strafing**, **bunnyhop** (manual or auto), **surfing** on steep ramps Source-style, classic HL2/Source style character movment straight from Project Borealis. 
 
 > Built for **VotV a09 / a09n**. 
 
@@ -30,12 +28,8 @@ Sprint, walk, and crouch all still work the way you expect - sprint uses your no
 | `SurfEntryMaxNormalZ` | How steep a ramp has to be to surf. Raise toward `1.0` to surf gentler ramps; lower it to require steeper ones. |
 
 The remaining sections (`[Acceleration]`, `[Braking]`, `[EdgeFriction]`,
-`[Slope]`, `[Misc]`) are for fine-tuning the exact feel - the defaults match
-Project Borealis, so you can leave them alone unless you're chasing a specific
-feel.
+`[Slope]`, `[Misc]`) are for fine-tuning.
 
-> Updating the mod won't overwrite your edited `PBMovement.ini` - your tuning
-> is safe.
 
 ## How it works
 
