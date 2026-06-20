@@ -1,5 +1,7 @@
 # AntiRagdoll
 
+# DEPRECATED - no support/updates see PBMovement
+
 This is a simple mod that prevents you from *ever* ragdolling. 
 
 Thanks to Questwalker for discovering the crash fix - the mod now essentially forces "Player Physics Damage" setting enabled. Otherwise it causes an infinite loop then crashes on ragdoll.
