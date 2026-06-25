@@ -1,6 +1,6 @@
 {
     "name": "SpinnyChairs",
-    "version_number": "1.1.6",
+    "version_number": "1.1.7",
     "website_url": "https://github.com/modestimpala/VotVMods/",
     "description": "Replaces the default base console/computer chair with one that spins and moves! Purchasable in the store.",
     "dependencies": [

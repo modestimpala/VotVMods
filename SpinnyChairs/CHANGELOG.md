@@ -1,3 +1,6 @@
+# 1.1.7
+ - Attempted to fix SpinnyChair from spawning infinitely. You get one free max (the existing base chair).
+
 # 1.1.6
  - Updated to a09n
  - Added "W" push forward action.
