@@ -8,23 +8,19 @@
 <a  href="https://discord.gg/Bq7HCMRfjk"><img  width="5%"  src="https://www.dropbox.com/scl/fi/96uoyd529gq617880m0cu/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png?rlkey=343xgtya1h3r53bblx8lns473&st=ih0q2alh&dl=1"></a>
 </p>
 
-  
 
 Feeling lonely searching for signals? Ever felt like Voices of the Void lacked actual voices in the void?
 
-  
 
 Give your chatters an in-game voice with TwitchMannequins!
 
-  
 
 This mod allows users to spawn Mannequin props with their name attached, and chat in-game respectively. It even allows TTS integration with Speaker.bot and plays audio in-engine.
 
 > Based on the original concept and tested by [DaveKap](https://www.twitch.tv/davekap) and his wonderful community.
 
-### Note: There is currently a known bug that causes crashes if you die and then reload (sometimes). Save often!
 
-  Having issues with the mod? Please make sure you're on the correct "Preferred version" of unreal-shimloader.
+Having issues with the mod? Please make sure you're on the correct "Preferred version" of unreal-shimloader.
 
 ## What can this mod do?
 

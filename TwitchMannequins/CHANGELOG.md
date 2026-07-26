@@ -1,3 +1,7 @@
+# 0.1.7
+
+ - Fixed console commands not working after a09n ui_console changes
+
 # 0.1.6
 
  - Fixed crashes (added game thread queue for ProcessEvent calls)

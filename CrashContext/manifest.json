@@ -1,0 +1,9 @@
+{
+    "name": "CrashContext",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/modestimpala/VotVMods/",
+    "description": "buh",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.1.7"
+    ]
+}
