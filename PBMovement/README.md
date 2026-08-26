@@ -22,13 +22,15 @@ Gives your character **Half-Life 2 / Source-engine movement** - air-strafing, bu
 
 ### Surf feel (if ramps don't behave)
 
-| Setting | What it does |
-|---|---|
-| `SurfEntrySpeed` | How fast you must be falling/moving to "stick" to a ramp instead of just landing on it. Lower it if you slide off ramps you wanted to surf; raise it if you stick to little bumps you'd rather walk over. |
-| `SurfEntryMaxNormalZ` | How steep a ramp has to be to surf. Raise toward `1.0` to surf gentler ramps; lower it to require steeper ones. |
+Nothing to tune: whether a ramp catches you is decided the way Project Borealis
+decides it; if sliding along the surface would throw you upward faster than a
+jump, it isn't treated as a floor and you surf. `BounceMultiplier` in `[Surf]`
+is the only knob left (extra bounce off slope clips; `0` = none).
 
 The remaining sections (`[Acceleration]`, `[Braking]`, `[EdgeFriction]`,
-`[Slope]`, `[Misc]`) are for fine-tuning.
+`[Slope]`, `[Misc]`) are for fine-tuning the exact feel - the defaults match
+Project Borealis, so you can leave them alone unless you're chasing a specific
+feel.
 
 
 ## How it works
