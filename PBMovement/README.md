@@ -20,6 +20,34 @@ Gives your character **Half-Life 2 / Source-engine movement** - air-strafing, bu
 | `AutoBunnyhop` | `true` = hold jump to auto-bhop. `false` = you must tap jump each time. |
 | `AirControl` | How much you can steer mid-air. `1.0` is full HL2-style control. |
 
+
+### Music at speed (`[Music]`)
+
+Play a song of your own once you are actually moving fast. **No music ships with
+the mod** - drop a file in the same folder as `main.dll` and name it:
+
+```ini
+[Music]
+File = The Laser Dance Song.mp3 ; Example
+```
+
+WAV, MP3 and FLAC work (OGG does not). It fades in once you pass `SpeedOn`
+(`800` uu/s) and fades back out below `SpeedOff` (`650`). Both defaults are
+*above* your sprint speed on purpose - sprinting alone won't start it, you have
+to have built real speed by bunnyhopping, ABH or surfing.
+
+| Setting | What it does |
+|---|---|
+| `File` | Your song. Empty (the default) turns the feature off entirely. |
+| `SpeedOn` / `SpeedOff` | Fade in at/above the first, out below the second. The gap stops it flickering while you hover at the threshold. |
+| `Volume` | `0`-`1`. Your in-game volume sliders still apply on top. |
+| `FadeIn` / `FadeOut` | Seconds for each fade. |
+| `Loop` | Repeat while you stay fast. |
+| `RestartEachTime` | `false` = a brief dip resumes where it left off. `true` = always start from the top. |
+
+Requires `EnableGraft = true` (with the graft off there is no movement tick to
+read your speed from).
+
 ### Surf feel (if ramps don't behave)
 
 Nothing to tune: whether a ramp catches you is decided the way Project Borealis
