@@ -1,9 +1,9 @@
 {
     "name": "VotVDiscordRPC",
-    "version_number": "0.9.8",
+    "version_number": "0.9.9",
     "website_url": "https://github.com/modestimpala/libvotv",
-    "description": "Simple Discord Rich Presence.",
+    "description": "Simple to use Discord Rich Presence for Voices of the Void. Shows your current map/area, game mode, day count and season, player status (dead, sleeping, dreaming), ATV driving, and more. Built with libvotv.",
     "dependencies": [
-        "Thunderstore-unreal_shimloader-1.1.3"
+        "Thunderstore-unreal_shimloader-1.1.7"
     ]
 }

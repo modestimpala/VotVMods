@@ -1,3 +1,7 @@
+# 0.9.9
+- Added signal processing percentages.
+- Includes libvotv's ObjectLifetime fixes. 
+
 # 0.9.8
  - Added "NoRequireDiscord" to discord::Core::Create call to prevent "There is no windows program configured to open this type of file" on Linux/etc
 
